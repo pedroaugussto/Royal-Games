@@ -2,7 +2,7 @@
 
 namespace RoyalGames.Interfaces
 {
-    public interface IClassificacaoIndicativa
+    public interface IClassificacaoIndicativaRepository
     {
         List<ClassificacaoIndicativa> Listar();
         ClassificacaoIndicativa ObterPorId(int id);

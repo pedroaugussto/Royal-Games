@@ -4,7 +4,7 @@ using RoyalGames.Interfaces;
 
 namespace RoyalGames.Repository
 {
-    public class ClassificacaoIndicativaRepository : IClassificacaoIndicativa
+    public class ClassificacaoIndicativaRepository : IClassificacaoIndicativaRepository
     {
         private readonly Royal_GamesContext _context;
 

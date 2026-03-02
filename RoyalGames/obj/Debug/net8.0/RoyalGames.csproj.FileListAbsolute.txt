@@ -141,3 +141,4 @@ C:\Users\49078790830\Desktop\RoyalGames\RoyalGames\obj\Debug\net8.0\refint\Royal
 C:\Users\49078790830\Desktop\RoyalGames\RoyalGames\obj\Debug\net8.0\RoyalGames.pdb
 C:\Users\49078790830\Desktop\RoyalGames\RoyalGames\obj\Debug\net8.0\RoyalGames.genruntimeconfig.cache
 C:\Users\49078790830\Desktop\RoyalGames\RoyalGames\obj\Debug\net8.0\ref\RoyalGames.dll
+C:\Users\49078790830\Desktop\RoyalGames\RoyalGames\obj\Debug\net8.0\RoyalGames.sourcelink.json
