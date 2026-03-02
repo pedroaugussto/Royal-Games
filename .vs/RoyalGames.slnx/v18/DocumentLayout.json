@@ -1,42 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\49078790830\\Desktop\\RoyalGames\\",
+  "WorkspaceRootPath": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|c:\\users\\49078790830\\desktop\\royalgames\\royalgames\\dtos\\usuariodto\\lerusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|solutionrelative:royalgames\\dtos\\usuariodto\\lerusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|c:\\users\\48558840814\\documents\\royal games\\royal-games\\royalgames\\dtos\\jogodto\\criarjogodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|solutionrelative:royalgames\\dtos\\jogodto\\criarjogodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|c:\\users\\49078790830\\desktop\\royalgames\\royalgames\\dtos\\usuariodto\\criarusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|c:\\users\\48558840814\\documents\\royal games\\royal-games\\royalgames\\dtos\\usuariodto\\criarusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|solutionrelative:royalgames\\dtos\\usuariodto\\criarusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|c:\\users\\49078790830\\desktop\\royalgames\\royalgames\\dtos\\logjogo\\lerlogjogodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|c:\\users\\48558840814\\documents\\royal games\\royal-games\\royalgames\\dtos\\usuariodto\\lerusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|solutionrelative:royalgames\\dtos\\usuariodto\\lerusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|c:\\users\\48558840814\\documents\\royal games\\royal-games\\royalgames\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|solutionrelative:royalgames\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|c:\\users\\48558840814\\documents\\royal games\\royal-games\\royalgames\\dtos\\jogodto\\lerjogodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|solutionrelative:royalgames\\dtos\\jogodto\\lerjogodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|c:\\users\\48558840814\\documents\\royal games\\royal-games\\royalgames\\dtos\\classificacaoindicativadto\\criarclassificacaoindicativadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|solutionrelative:royalgames\\dtos\\classificacaoindicativadto\\criarclassificacaoindicativadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|c:\\users\\48558840814\\documents\\royal games\\royal-games\\royalgames\\dtos\\classificacaoindicativadto\\lerclassificacaoindicativadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|solutionrelative:royalgames\\dtos\\classificacaoindicativadto\\lerclassificacaoindicativadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|c:\\users\\48558840814\\documents\\royal games\\royal-games\\royalgames\\dtos\\generodto\\lergenerodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|solutionrelative:royalgames\\dtos\\generodto\\lergenerodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|c:\\users\\48558840814\\documents\\royal games\\royal-games\\royalgames\\dtos\\generodto\\criargenerodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|solutionrelative:royalgames\\dtos\\generodto\\criargenerodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|c:\\users\\48558840814\\documents\\royal games\\royal-games\\royalgames\\domains\\classificacaoindicativa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|solutionrelative:royalgames\\domains\\classificacaoindicativa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|c:\\users\\48558840814\\documents\\royal games\\royal-games\\royalgames\\dtos\\logjogo\\lerlogjogodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|solutionrelative:royalgames\\dtos\\logjogo\\lerlogjogodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|c:\\users\\49078790830\\desktop\\royalgames\\royalgames\\dtos\\plataformadto\\lerplataformadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|c:\\users\\48558840814\\documents\\royal games\\royal-games\\royalgames\\dtos\\plataformadto\\lerplataformadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|solutionrelative:royalgames\\dtos\\plataformadto\\lerplataformadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|c:\\users\\49078790830\\desktop\\royalgames\\royalgames\\dtos\\plataformadto\\criarplataformadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|c:\\users\\48558840814\\documents\\royal games\\royal-games\\royalgames\\dtos\\plataformadto\\criarplataformadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|solutionrelative:royalgames\\dtos\\plataformadto\\criarplataformadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|c:\\users\\49078790830\\desktop\\royalgames\\royalgames\\repository\\classificacaoindicativarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|c:\\users\\48558840814\\documents\\royal games\\royal-games\\royalgames\\repository\\classificacaoindicativarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|solutionrelative:royalgames\\repository\\classificacaoindicativarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|c:\\users\\49078790830\\desktop\\royalgames\\royalgames\\contexts\\royal_gamescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|c:\\users\\48558840814\\documents\\royal games\\royal-games\\royalgames\\contexts\\royal_gamescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|solutionrelative:royalgames\\contexts\\royal_gamescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|c:\\users\\49078790830\\desktop\\royalgames\\royalgames\\interfaces\\iclassificacaoindicativa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|c:\\users\\48558840814\\documents\\royal games\\royal-games\\royalgames\\interfaces\\iclassificacaoindicativa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|solutionrelative:royalgames\\interfaces\\iclassificacaoindicativa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|c:\\users\\49078790830\\desktop\\royalgames\\royalgames\\domains\\classificacaoindicativa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB9EF8C1-1839-9C68-77C4-CE4DB5B29C43}|RoyalGames\\RoyalGames.csproj|solutionrelative:royalgames\\domains\\classificacaoindicativa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,15 +74,93 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "RoyalGames\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "RoyalGames\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T11:51:41.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LerGeneroDto.cs",
+              "DocumentMoniker": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\DTOs\\GeneroDto\\LerGeneroDto.cs",
+              "RelativeDocumentMoniker": "RoyalGames\\DTOs\\GeneroDto\\LerGeneroDto.cs",
+              "ToolTip": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\DTOs\\GeneroDto\\LerGeneroDto.cs",
+              "RelativeToolTip": "RoyalGames\\DTOs\\GeneroDto\\LerGeneroDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T11:50:25.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LerJogoDto.cs",
+              "DocumentMoniker": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\DTOs\\JogoDto\\LerJogoDto.cs",
+              "RelativeDocumentMoniker": "RoyalGames\\DTOs\\JogoDto\\LerJogoDto.cs",
+              "ToolTip": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\DTOs\\JogoDto\\LerJogoDto.cs",
+              "RelativeToolTip": "RoyalGames\\DTOs\\JogoDto\\LerJogoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T11:48:55.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CriarJogoDto.cs",
+              "DocumentMoniker": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\DTOs\\JogoDto\\CriarJogoDto.cs",
+              "RelativeDocumentMoniker": "RoyalGames\\DTOs\\JogoDto\\CriarJogoDto.cs",
+              "ToolTip": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\DTOs\\JogoDto\\CriarJogoDto.cs",
+              "RelativeToolTip": "RoyalGames\\DTOs\\JogoDto\\CriarJogoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T11:48:43.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CriarClassificacaoIndicativaDto.cs",
+              "DocumentMoniker": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\DTOs\\ClassificacaoIndicativaDto\\CriarClassificacaoIndicativaDto.cs",
+              "RelativeDocumentMoniker": "RoyalGames\\DTOs\\ClassificacaoIndicativaDto\\CriarClassificacaoIndicativaDto.cs",
+              "ToolTip": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\DTOs\\ClassificacaoIndicativaDto\\CriarClassificacaoIndicativaDto.cs",
+              "RelativeToolTip": "RoyalGames\\DTOs\\ClassificacaoIndicativaDto\\CriarClassificacaoIndicativaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T11:46:56.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LerClassificacaoIndicativaDto.cs",
+              "DocumentMoniker": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\DTOs\\ClassificacaoIndicativaDto\\LerClassificacaoIndicativaDto.cs",
+              "RelativeDocumentMoniker": "RoyalGames\\DTOs\\ClassificacaoIndicativaDto\\LerClassificacaoIndicativaDto.cs",
+              "ToolTip": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\DTOs\\ClassificacaoIndicativaDto\\LerClassificacaoIndicativaDto.cs",
+              "RelativeToolTip": "RoyalGames\\DTOs\\ClassificacaoIndicativaDto\\LerClassificacaoIndicativaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T11:46:55.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "LerUsuarioDto.cs",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\RoyalGames\\RoyalGames\\DTOs\\UsuarioDto\\LerUsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\DTOs\\UsuarioDto\\LerUsuarioDto.cs",
               "RelativeDocumentMoniker": "RoyalGames\\DTOs\\UsuarioDto\\LerUsuarioDto.cs",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\RoyalGames\\RoyalGames\\DTOs\\UsuarioDto\\LerUsuarioDto.cs",
+              "ToolTip": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\DTOs\\UsuarioDto\\LerUsuarioDto.cs",
               "RelativeToolTip": "RoyalGames\\DTOs\\UsuarioDto\\LerUsuarioDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -65,33 +171,35 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CriarUsuarioDto.cs",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\RoyalGames\\RoyalGames\\DTOs\\UsuarioDto\\CriarUsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\DTOs\\UsuarioDto\\CriarUsuarioDto.cs",
               "RelativeDocumentMoniker": "RoyalGames\\DTOs\\UsuarioDto\\CriarUsuarioDto.cs",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\RoyalGames\\RoyalGames\\DTOs\\UsuarioDto\\CriarUsuarioDto.cs",
+              "ToolTip": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\DTOs\\UsuarioDto\\CriarUsuarioDto.cs",
               "RelativeToolTip": "RoyalGames\\DTOs\\UsuarioDto\\CriarUsuarioDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T11:32:25.891Z"
+              "WhenOpened": "2026-03-02T11:32:25.891Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LerLogJogoDto.cs",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\RoyalGames\\RoyalGames\\DTOs\\LogJogo\\LerLogJogoDto.cs",
-              "RelativeDocumentMoniker": "RoyalGames\\DTOs\\LogJogo\\LerLogJogoDto.cs",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\RoyalGames\\RoyalGames\\DTOs\\LogJogo\\LerLogJogoDto.cs",
-              "RelativeToolTip": "RoyalGames\\DTOs\\LogJogo\\LerLogJogoDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "CriarGeneroDto.cs",
+              "DocumentMoniker": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\DTOs\\GeneroDto\\CriarGeneroDto.cs",
+              "RelativeDocumentMoniker": "RoyalGames\\DTOs\\GeneroDto\\CriarGeneroDto.cs",
+              "ToolTip": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\DTOs\\GeneroDto\\CriarGeneroDto.cs",
+              "RelativeToolTip": "RoyalGames\\DTOs\\GeneroDto\\CriarGeneroDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T11:26:35.679Z"
+              "WhenOpened": "2026-03-02T11:50:24.336Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "CriarPlataformaDto.cs",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\RoyalGames\\RoyalGames\\DTOs\\PlataformaDto\\CriarPlataformaDto.cs",
+              "DocumentMoniker": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\DTOs\\PlataformaDto\\CriarPlataformaDto.cs",
               "RelativeDocumentMoniker": "RoyalGames\\DTOs\\PlataformaDto\\CriarPlataformaDto.cs",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\RoyalGames\\RoyalGames\\DTOs\\PlataformaDto\\CriarPlataformaDto.cs",
+              "ToolTip": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\DTOs\\PlataformaDto\\CriarPlataformaDto.cs",
               "RelativeToolTip": "RoyalGames\\DTOs\\PlataformaDto\\CriarPlataformaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,11 +207,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "LerPlataformaDto.cs",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\RoyalGames\\RoyalGames\\DTOs\\PlataformaDto\\LerPlataformaDto.cs",
+              "DocumentMoniker": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\DTOs\\PlataformaDto\\LerPlataformaDto.cs",
               "RelativeDocumentMoniker": "RoyalGames\\DTOs\\PlataformaDto\\LerPlataformaDto.cs",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\RoyalGames\\RoyalGames\\DTOs\\PlataformaDto\\LerPlataformaDto.cs",
+              "ToolTip": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\DTOs\\PlataformaDto\\LerPlataformaDto.cs",
               "RelativeToolTip": "RoyalGames\\DTOs\\PlataformaDto\\LerPlataformaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -111,11 +219,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
+              "Title": "ClassificacaoIndicativa.cs",
+              "DocumentMoniker": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\Domains\\ClassificacaoIndicativa.cs",
+              "RelativeDocumentMoniker": "RoyalGames\\Domains\\ClassificacaoIndicativa.cs",
+              "ToolTip": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\Domains\\ClassificacaoIndicativa.cs",
+              "RelativeToolTip": "RoyalGames\\Domains\\ClassificacaoIndicativa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T10:51:21.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LerLogJogoDto.cs",
+              "DocumentMoniker": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\DTOs\\LogJogo\\LerLogJogoDto.cs",
+              "RelativeDocumentMoniker": "RoyalGames\\DTOs\\LogJogo\\LerLogJogoDto.cs",
+              "ToolTip": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\DTOs\\LogJogo\\LerLogJogoDto.cs",
+              "RelativeToolTip": "RoyalGames\\DTOs\\LogJogo\\LerLogJogoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T11:26:35.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "ClassificacaoIndicativaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\RoyalGames\\RoyalGames\\Repository\\ClassificacaoIndicativaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\Repository\\ClassificacaoIndicativaRepository.cs",
               "RelativeDocumentMoniker": "RoyalGames\\Repository\\ClassificacaoIndicativaRepository.cs",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\RoyalGames\\RoyalGames\\Repository\\ClassificacaoIndicativaRepository.cs",
+              "ToolTip": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\Repository\\ClassificacaoIndicativaRepository.cs",
               "RelativeToolTip": "RoyalGames\\Repository\\ClassificacaoIndicativaRepository.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAcwEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -123,11 +256,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "IClassificacaoIndicativa.cs",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\RoyalGames\\RoyalGames\\Interfaces\\IClassificacaoIndicativa.cs",
+              "DocumentMoniker": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\Interfaces\\IClassificacaoIndicativa.cs",
               "RelativeDocumentMoniker": "RoyalGames\\Interfaces\\IClassificacaoIndicativa.cs",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\RoyalGames\\RoyalGames\\Interfaces\\IClassificacaoIndicativa.cs",
+              "ToolTip": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\Interfaces\\IClassificacaoIndicativa.cs",
               "RelativeToolTip": "RoyalGames\\Interfaces\\IClassificacaoIndicativa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -135,27 +268,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "Royal_GamesContext.cs",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\RoyalGames\\RoyalGames\\Contexts\\Royal_GamesContext.cs",
+              "DocumentMoniker": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\Contexts\\Royal_GamesContext.cs",
               "RelativeDocumentMoniker": "RoyalGames\\Contexts\\Royal_GamesContext.cs",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\RoyalGames\\RoyalGames\\Contexts\\Royal_GamesContext.cs",
+              "ToolTip": "C:\\Users\\48558840814\\Documents\\royal games\\Royal-Games\\RoyalGames\\Contexts\\Royal_GamesContext.cs",
               "RelativeToolTip": "RoyalGames\\Contexts\\Royal_GamesContext.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAkwDMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T10:55:06.541Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ClassificacaoIndicativa.cs",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\RoyalGames\\RoyalGames\\Domains\\ClassificacaoIndicativa.cs",
-              "RelativeDocumentMoniker": "RoyalGames\\Domains\\ClassificacaoIndicativa.cs",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\RoyalGames\\RoyalGames\\Domains\\ClassificacaoIndicativa.cs",
-              "RelativeToolTip": "RoyalGames\\Domains\\ClassificacaoIndicativa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T10:51:21.144Z"
             }
           ]
         }
