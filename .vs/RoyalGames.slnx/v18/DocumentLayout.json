@@ -66,7 +66,7 @@
               "RelativeToolTip": "RoyalGames\\Controllers\\ClassificacaoIndicativaController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T11:51:22.312Z",
+              "WhenOpened": "2026-03-02T12:14:04.78Z",
               "EditorCaption": ""
             },
             {
@@ -79,7 +79,7 @@
               "RelativeToolTip": "RoyalGames\\Applications\\Services\\ClassificacaoIndicativaService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T11:50:57.745Z"
+              "WhenOpened": "2026-03-02T12:14:04.81Z"
             },
             {
               "$type": "Document",
@@ -91,7 +91,7 @@
               "RelativeToolTip": "RoyalGames\\DTOs\\UsuarioDto\\LerUsuarioDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T11:35:02.021Z"
+              "WhenOpened": "2026-03-02T12:14:04.813Z"
             },
             {
               "$type": "Document",
@@ -103,7 +103,7 @@
               "RelativeToolTip": "RoyalGames\\DTOs\\UsuarioDto\\CriarUsuarioDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T11:32:25.891Z"
+              "WhenOpened": "2026-03-02T12:14:04.814Z"
             },
             {
               "$type": "Document",
@@ -115,7 +115,7 @@
               "RelativeToolTip": "RoyalGames\\DTOs\\LogJogo\\LerLogJogoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T11:26:35.679Z"
+              "WhenOpened": "2026-03-02T12:14:04.816Z"
             },
             {
               "$type": "Document",
@@ -127,7 +127,7 @@
               "RelativeToolTip": "RoyalGames\\DTOs\\PlataformaDto\\CriarPlataformaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T11:23:00.317Z"
+              "WhenOpened": "2026-03-02T12:14:04.818Z"
             },
             {
               "$type": "Document",
@@ -139,7 +139,7 @@
               "RelativeToolTip": "RoyalGames\\DTOs\\PlataformaDto\\LerPlataformaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T11:22:45.443Z"
+              "WhenOpened": "2026-03-02T12:14:04.819Z"
             },
             {
               "$type": "Document",
@@ -151,7 +151,7 @@
               "RelativeToolTip": "RoyalGames\\Repository\\ClassificacaoIndicativaRepository.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAcwEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T11:08:08.699Z"
+              "WhenOpened": "2026-03-02T12:14:04.821Z"
             },
             {
               "$type": "Document",
@@ -163,7 +163,7 @@
               "RelativeToolTip": "RoyalGames\\Interfaces\\IClassificacaoIndicativa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T11:04:17.55Z"
+              "WhenOpened": "2026-03-02T12:14:04.823Z"
             },
             {
               "$type": "Document",
@@ -175,7 +175,7 @@
               "RelativeToolTip": "RoyalGames\\Contexts\\Royal_GamesContext.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAkwDMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T10:55:06.541Z"
+              "WhenOpened": "2026-03-02T12:14:04.824Z"
             },
             {
               "$type": "Document",
@@ -187,7 +187,7 @@
               "RelativeToolTip": "RoyalGames\\Domains\\ClassificacaoIndicativa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T10:51:21.144Z"
+              "WhenOpened": "2026-03-02T12:14:04.826Z"
             }
           ]
         }
