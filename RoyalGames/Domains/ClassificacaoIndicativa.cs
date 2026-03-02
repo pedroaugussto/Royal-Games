@@ -7,7 +7,7 @@ public partial class ClassificacaoIndicativa
 {
     public int ClassificacaoIndicativaID { get; set; }
 
-    public string Classificacao { get; set; } = null!;
+    public string Nome { get; set; } = null!;
 
     public virtual ICollection<Jogo> Jogo { get; set; } = new List<Jogo>();
 }

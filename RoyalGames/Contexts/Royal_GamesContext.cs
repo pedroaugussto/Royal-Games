@@ -38,7 +38,7 @@ public partial class Royal_GamesContext : DbContext
         {
             entity.HasKey(e => e.ClassificacaoIndicativaID).HasName("PK__Classifi__892DEC6FFAC51039");
 
-            entity.Property(e => e.Classificacao)
+            entity.Property(e => e.Nome)
                 .HasMaxLength(50)
                 .IsUnicode(false);
         });
