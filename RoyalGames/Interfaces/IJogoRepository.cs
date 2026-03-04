@@ -6,7 +6,7 @@ namespace RoyalGames.Interfaces
     {
         List<Jogo> Listar();
         Jogo ObterPorId(int id);
-        Jogo ObterPorNome(int id);
+        Jogo ObterPorNome(string nome);
         bool NomeExiste(string nome, int? jogoIdAtual = null);
         void Adicionar(Jogo jogo);
         void Atualizar(Jogo jogo);
