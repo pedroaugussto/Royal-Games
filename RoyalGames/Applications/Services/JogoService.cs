@@ -3,6 +3,8 @@ using RoyalGames.DTOs.JogoDto;
 using RoyalGames.Exceptions;
 using RoyalGames.Interfaces;
 using RoyalGames.Repository;
+using RoyalGames.Applications.Regras;
+using RoyalGames.Applications.Conversoes;
 
 namespace RoyalGames.Applications.Services
 {
@@ -80,14 +82,14 @@ namespace RoyalGames.Applications.Services
                 throw new DomainException("Descrição é obrigatória.");
             }
 
-            if (string.IsNullOrWhiteSpace(jogoDto.Plataforma))
+            if (jogoDto.PlataformaId == null)
             {
                 throw new DomainException("Plataforma é obrigatória.");
             }
 
-            if (string.IsNullOrWhiteSpace(jogoDto.Genero))
+            if (jogoDto.GeneroId == null)
             {
-                throw new DomainException("Descrição é obrigatória.");
+                throw new DomainException("Genero é obrigatório.");
             }
 
             if (jogoDto.Imagem == null || jogoDto.Imagem.Length == 0)
@@ -104,31 +106,96 @@ namespace RoyalGames.Applications.Services
             }
         }
 
-        void Adicionar(CriarJogoDto criarJogoDto)
+        public LerJogoDto Adicionar(CriarJogoDto jogoDto, int jogoId)
         {
-            ValidarJogo(criarJogoDto);
+            ValidarJogo(jogoDto);
 
-            if (_repository.NomeExiste(criarJogoDto.Nome))
+            if (_repository.NomeExiste(jogoDto.Nome))
             {
-                throw new DomainException("Promoção já existente.");
+                throw new DomainException("Jogo já existente.");
             }
 
-            criarJogoDto promocao = new Promocao
+            Jogo jogo = new Jogo
             {
-                Nome
+                Nome = jogoDto.Nome,
+                Preco = jogoDto.Preco,
+                Descricao = jogoDto.Descricao,
+                Imagem = ImagemParaBytes.ConverterImagem(jogoDto.Imagem),
+                Plataforma = jogoDto.Plataforma,
+                Genero = jogoDto.Genero
+            };
 
-                Preco
+            _repository.Adicionar(jogo);
 
-                Descricao
-                Imagem 
-                Plataforma 
-
-                Genero 
-    };
-
-            _repository.Adicionar(promocao);
+            return JogoParaDto.ConverterParaDto(jogo);
         }
-        void Atualizar(Jogo jogo);
-        void Remover(int id);
+
+        public LerJogoDto Atualizar(int id, AtualizarJogoDto jogoDto)
+        {
+            HorarioAlteracaoJogo.ValidarHorario();
+
+            Jogo jogoBanco = _repository.ObterPorId(id);
+
+            if (jogoBanco == null)
+            {
+                throw new DomainException("Jogo não encontrado.");
+            }
+
+            if (_repository.NomeExiste(jogoDto.Nome))
+            {
+                throw new DomainException("Já existe um jogo com esse nome");
+            }
+
+            if (jogoDto.Descricao == null)
+            {
+                throw new DomainException("O jogo deve ter uma descrição.");
+            }
+
+            if (jogoDto.Nome == null)
+            {
+                throw new DomainException("O jogo deve ter um nome.");
+            }
+
+            if (jogoDto.Genero == null)
+            {
+                throw new DomainException("O jogo deve ter ao menos um gênero.");
+            }
+
+            if (jogoDto.Plataforma == null)
+            {
+                throw new DomainException("O jogo deve ter ao menos uma plataforma.");
+            }
+
+            if (jogoDto.Preco < 0)
+            {
+                throw new DomainException("O preço do jogo deve ser maior ou igual a zero.");
+            }
+
+            if (jogoDto.Imagem != null && jogoDto.Imagem.Length > 0)
+            {
+                jogoBanco.Imagem = ImagemParaBytes.ConverterImagem(jogoDto.Imagem);
+            }
+
+            _repository.Atualizar(jogoBanco, jogoDto.plataformaIds);
+
+
+            return JogoParaDto.ConverterParaDto(jogoBanco);
+        }
+
+        public void Remover(int id)
+        {
+            HorarioAlteracaoJogo.ValidarHorario();
+
+            Jogo jogo = _repository.ObterPorId(id);
+
+            if (jogo == null)
+            {
+                throw new DomainException("Jogo não encontrado.");
+            }
+
+            _repository.Remover(id);
+        }
+
+
     }
 }
